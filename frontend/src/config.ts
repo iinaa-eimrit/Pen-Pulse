@@ -1,0 +1,1 @@
+export const BACKEND_URL = " https://social-journalism-and-blog-hosting-platform.social-journalism-and-blog-hosting-platform.workers.dev"

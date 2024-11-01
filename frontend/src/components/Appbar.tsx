@@ -8,7 +8,7 @@ export const Appbar = () => {
                 to={'/blogs'}
                 className="flex flex-col justify-center cursor-pointer text-2xl text-gray-800 font-cambria tracking-wide font-bold hover:text-gray-600 transition duration-300"
             >
-                Pen & Pulse
+                Blogs
             </Link>
             <div className="flex items-center">
                 <Link to={`/publish`}>
